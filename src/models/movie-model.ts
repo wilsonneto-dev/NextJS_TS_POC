@@ -1,0 +1,5 @@
+
+interface MovieModel {
+    string title;
+
+}
